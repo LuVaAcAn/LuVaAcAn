@@ -75,7 +75,7 @@
 <a href="https://www.linkedin.com/in/luvaacan/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50" class="img-small">
 <a href="https://www.instagram.com/luva_acan/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="50" height="50" class="img-small"></a> 
 <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="50" height="50" class="img-small"></a>
-<a href="https://discordapp.com/users/275733550408400896"><img src="   https://cdn-icons-png.flaticon.com/512/4494/4494732.png" width="50" height="50" class="img-small"></a>
+<a href="https://discordapp.com/users/275733550408400896"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494732.png" width="50" height="50" class="img-small"></a>
 <a href="mailto:luciano.achinangeles@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/6244/6244710.png" width="50" height="50" class="img-small"></a>
 </p>
 
