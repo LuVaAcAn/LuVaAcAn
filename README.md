@@ -41,6 +41,7 @@
 </td>
 <td>
 <img align-self="center" margin="10px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LuVaAcAn&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuVaAcAn)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 </tr>
 </table>
