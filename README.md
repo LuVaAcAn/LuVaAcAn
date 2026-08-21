@@ -6,6 +6,13 @@
 
 I build digital products, scalable web platforms, and technology-driven solutions for real-world businesses.
 
+<div align="center">
+
+[![luvaacan on GitHub](https://gitrait.vercel.app/api/card/luvaacan)](https://github.com/luvaacan)
+
+</div>
+
+
 <a href="https://github.com/LuVaAcAn">
   <img src="https://img.shields.io/badge/GitHub-LuVaAcAn-181717?style=for-the-badge&logo=github" />
 </a>
@@ -167,26 +174,6 @@ Instead of simply presenting products, the platform focuses on helping businesse
 
 </div>
 
----
-
-## 🌱 Currently Exploring
-
-```text
-AI & Machine Learning
-        ↓
-Automation & Intelligent Systems
-        ↓
-Scalable Backend Architecture
-        ↓
-B2B Digital Products
-        ↓
-Better User Experiences
-```
-
-I'm particularly interested in how these areas can work together to create **technology that solves actual business problems**.
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -214,7 +201,3 @@ I'm particularly interested in how these areas can work together to create **tec
 <div align="center">
 
 ### Thanks for stopping by! 👋
-
-![Profile Views](https://visitcount.itsvg.in/api?id=LuVaAcAn\&label=Profile%20Views\&color=3\&icon=2\&pretty=true)
-
-</div>
