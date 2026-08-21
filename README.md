@@ -1,88 +1,220 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Luciano!</h1></summary>
-  </ul>
+<div align="center">
+
+# Hi 👋, I'm Luciano Achinangeles
+
+### Software Engineer · Tech Founder · AI & Web Development
+
+I build digital products, scalable web platforms, and technology-driven solutions for real-world businesses.
+
+<a href="https://github.com/LuVaAcAn">
+  <img src="https://img.shields.io/badge/GitHub-LuVaAcAn-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/luvaacan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Achinangeles-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
 </div>
+
+---
+
+## 👨🏻‍💻 About Me
+
+* 🚀 **Founder & CEO at Grutexpa**, leading technology and digital strategy for a B2B business
+* 🎓 **Computer Science** graduate from Universidad Peruana de Ciencias Aplicadas (UPC)
+* 💻 Software Engineer focused on **web platforms, backend systems and databases**
+* 🤖 Exploring **Artificial Intelligence, NLP, Machine Learning and automation**
+* 🌐 Building digital experiences that connect **business, technology and users**
+* 🧠 Interested in turning complex business problems into simple, scalable software
+* 🎨 Passionate about the intersection of **technology, product and design**
+
+> I don't just like building software — I like understanding the problem behind it and creating technology that actually moves a business forward.
+
+---
+
+## 🚀 What I'm Building
+
+### 🏢 Grutexpa
+
+At **Grutexpa**, I'm leading the development of our digital ecosystem for B2B merchandising and corporate products.
+
+The goal goes beyond having a website.
+
+I'm building technology around the business — from digital catalogs and customer experiences to internal processes, automation and new ways of connecting physical products with digital experiences.
+
+Some of the things I'm exploring:
+
+* ⚡ B2B digital platforms
+* 🛒 Product catalogs & quotation flows
+* 🔄 Business process automation
+* 📊 Data & analytics
+* 🤖 AI-powered workflows
+* 📱 NFC-enabled physical products
+* 🌐 Digital experiences connected to physical products
+
+---
+
+## 🤖 Artificial Intelligence
+
+AI is one of the areas I'm most interested in exploring.
+
+My current interests include:
+
+* Machine Learning
+* Natural Language Processing
+* Computer Vision
+* Sentiment Analysis
+* AI-powered automation
+* Intelligent recommendation systems
+* AI applied to business processes
+
+One of my previous projects was an **AI Sign Language Translator**, developed with Python and TensorFlow as an exploration into computer vision and accessibility.
+
+---
+
+## 💻 Software Engineering
+
+I enjoy working across the stack, but I'm particularly interested in **backend architecture, databases and systems that support real products**.
+
+### Backend
+
+`Java` · `Python` · `Node.js` · `PHP` · `Spring Boot`
+
+### Frontend
+
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS`
+
+### Databases
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Firebase`
+
+### Cloud & Infrastructure
+
+`AWS` · `Docker` · `Git` · `GitHub` · `Linux`
+
+### AI / Data
+
+`Python` · `TensorFlow` · `Machine Learning` · `NLP`
+
+### Design & Product
+
+`Figma` · `Adobe XD` · `Notion`
+
+---
+
+## 🧩 Selected Projects
+
+### 🧠 AI Sign Language Translator
+
+An AI project exploring sign language recognition and translation using **Python and TensorFlow**.
+
+**Focus:** Computer Vision · Machine Learning · Accessibility
+
+---
+
+### 🥗 NutriMed
+
+A full-stack web application combining nutrition management with a recommendation system.
+
+**Stack:** Java · Spring Boot · React · MySQL · Hibernate · REST API
+
+Implemented a collaborative-filtering recommendation algorithm exposed through a REST API.
+
+---
+
+### 🌐 Grutexpa Digital Platform
+
+A B2B digital platform designed around the real purchasing process of corporate merchandising.
+
+Instead of simply presenting products, the platform focuses on helping businesses discover solutions, understand customization options and move efficiently toward a quotation.
+
+**Focus:** B2B · Product Strategy · Web Development · UX · Automation
+
+---
+
+## 🛠️ Technologies
 
 <div align="center">
 
-[![luvaacan on GitHub](https://gitrait.vercel.app/api/card/luvaacan)](https://github.com/luvaacan)
+<img src="https://skillicons.dev/icons?i=java,py,php,ts,js,cpp,cs" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tailwind,redux" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,aws,docker" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,postman,figma,vscode" />
 
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Software Developer / Digital Creator</h2></summary>
-  </ul>
-</div>
+---
 
+## 📊 GitHub Stats
 
-<!--Intro start-->
-- 💻 Currently studying **Computer Science** at **Universidad Peruana de Ciencias Aplicadas** <img align="center" src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" height="35" width="35"/>
-- ✍ Currently learning **how to make an AI for Sign Language Translation** using **Python**
-- 👨‍💻 Currently working at [**Corptexar SACS**](https://corptexar.com/) as **web developer**
-- 💬 Experienced in web development using **AWS, React, Python, Firebase, HTML, CSS, JS**
-- ☁️ I've keen interest in design. So, I'm using **Figma & AdobeXD** to work
-- 📝 I love learning new technologies and I **constantly look for challenges that allow me to grow professionally.**
-=
-- 📫 Feel free to reach me out: **[luciano.achinangeles@gmail.com](mailto:luciano.achinangeles@gmail.com)** <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="30" />
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [luvaacan](https://discordapp.com/users/275733550408400896) is my username! <img align="center" src="https://skillicons.dev/icons?i=discord" height="30" width="30" />
-
-
-
-<p display="flex" align="center" >
-<table justify-content="center" align="center">
-<tr border="1 p" align="center">
-<td width="50%">
-  <img  align="left" width="100%" margin="10px" src="https://github-readme-stats.vercel.app/api?username=LuVaAcAn&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img align="right" width="100%" margin="10px" src="https://github-readme-streak-stats.herokuapp.com/?user=LuVaAcAn&theme=dark&hide_border=false" /> 
-    <br></br>
-</td>
-<td>
-<img align-self="center" margin="10px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LuVaAcAn&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=11"/>
-</td>
-</tr>
-</table>
-<!--<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=LuVaAcAn&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-    </a>
-</div>-->
-</p>        
-<!--- stats (end) -->
-
-<div>
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,cs,css,discord,docker,postgres,figma,firebase,github,html,java,js,linux,md,mongodb,mysql,nextjs,pug,nodejs,notion,postman,py,react,redux,tailwind,ts,tensorflow,vscode,visualstudio,&perline=14"/>
-  </a>
-</p>
-
-<div>
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contact me! 🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/luvaacan/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50" class="img-small">
-<a href="https://www.instagram.com/luva_acan/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="50" height="50" class="img-small"></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="50" height="50" class="img-small"></a>
-<a href="https://discordapp.com/users/275733550408400896" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494732.png" width="50" height="50" class="img-small"></a>
-<a href="mailto:luciano.achinangeles@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6244/6244710.png" width="50" height="50" class="img-small"></a>
-</p>
-
-
-<!--profile visit count-->
 <div align="center">
- 
-  [![](https://visitcount.itsvg.in/api?id=LuVaAcAn&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuVaAcAn&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuVaAcAn&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuVaAcAn&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+AI & Machine Learning
+        ↓
+Automation & Intelligent Systems
+        ↓
+Scalable Backend Architecture
+        ↓
+B2B Digital Products
+        ↓
+Better User Experiences
+```
+
+I'm particularly interested in how these areas can work together to create **technology that solves actual business problems**.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luvaacan/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/achinangeles/">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/275733550408400896">
+  <img src="https://skillicons.dev/icons?i=discord" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:luciano.achinangeles@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Thanks for stopping by! 👋
+
+![Profile Views](https://visitcount.itsvg.in/api?id=LuVaAcAn\&label=Profile%20Views\&color=3\&icon=2\&pretty=true)
+
 </div>
