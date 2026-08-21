@@ -4,10 +4,7 @@
   </ul>
 </div>
 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+[![luvaacan on GitHub](https://gitrait.vercel.app/api/card/luvaacan)](https://github.com/luvaacan)
 
 <div id="user-content-toc">
   <ul align="center">
