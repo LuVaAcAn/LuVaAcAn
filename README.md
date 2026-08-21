@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Luciano Achinangeles
+# Hi 👋, I'm Luciano Achin Angeles
 
 ### Software Engineer · Tech Founder · AI & Web Development
 
